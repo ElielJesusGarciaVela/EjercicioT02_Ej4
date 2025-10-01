@@ -3,6 +3,6 @@ public class App {
         double euros = 4.2;
         double valordepesos = 166.386;
 
-        System.out.printf(euros + " euros son " + (euros * valordepesos) + ".");
+        System.out.printf(euros + " euros son " + (euros * valordepesos) + " pesetas.");
     }
 }
